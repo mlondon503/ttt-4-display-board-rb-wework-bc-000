@@ -5,4 +5,6 @@ def display_board(board)
   cell = "   "
   divider = "|"
   row = "-----------"
-  if 
+  i = 0
+  while i < board.length
+  
