@@ -7,4 +7,3 @@ def display_board(board)
   row = "-----------"
   i = 0
   while i < board.length
-  
