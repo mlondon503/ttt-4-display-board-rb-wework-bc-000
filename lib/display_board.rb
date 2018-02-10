@@ -2,3 +2,7 @@
 # out the current state.
 
 def display_board(board)
+  cell = "   "
+  divider = "|"
+  row = "-----------"
+  if 
