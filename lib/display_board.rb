@@ -2,8 +2,8 @@
 # out the current state.
 
 def display_board(board)
-  cell = "   "
-  divider = "|"
-  row = "-----------"
-  i = 0
-  while i < board.length
+  puts " #{board[0]} | #{board[1]} | #{board[2]} "
+  puts "-----------"
+  puts " #{board[3]} | #{board[1]} | #{board[2]} "
+  puts "-----------"
+  puts " #{board[0]} | #{board[1]} | #{board[2]} "
